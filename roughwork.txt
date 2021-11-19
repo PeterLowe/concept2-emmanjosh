@@ -10,7 +10,10 @@ World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+assassins fighting for peace and free will
+the game has main and side quests, letting the player explore more of the historical environment of the game
+ability to start a mission again
+quitly pass the guards without alerting them
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
