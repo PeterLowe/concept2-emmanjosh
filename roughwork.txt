@@ -1,23 +1,22 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
-Title
-insert team member names here Joshua, Ana, Emma 
-
+Title AssAssIns Space  
+insert team member name
 
 Elevator pitch 
-Describe your game in 30 seconds or less helelelelel
-... this game will take place in the past but in the fu
-World Background
-main differences in your game world
+Describe your game in 30 seconds or less 
+... This game will ne based in space , where no AssAssin has gone before. To fight, yeah you guessed it, Space templars who now want that golden apple thing again, which thee seems to be loads just rolling around 
+World Background. you will have access to a new planet, cryptos where you have access to never seen before technology. 
+
 ...
 Pillars
 3-4 fundementals of this game
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
-...
+... In 
 Features points
 key selling points of your game
-...
+... This will 
 Market analysis
 similar games , typical customer, expected sales
