@@ -1,7 +1,8 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+insert team member names here git
+Emma,josh and Anna
 
 Elevator pitch 
 Describe your game in 30 seconds or less
