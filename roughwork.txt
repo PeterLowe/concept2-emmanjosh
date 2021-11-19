@@ -1,11 +1,12 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+insert team member names here Joshua, Ana, Emma 
+
 
 Elevator pitch 
-Describe your game in 30 seconds or less
-...
+Describe your game in 30 seconds or less helelelelel
+... this game will take place in the past but in the fu
 World Background
 main differences in your game world
 ...
