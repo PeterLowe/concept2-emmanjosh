@@ -6,10 +6,12 @@ Emma,josh and Anna
 
 Elevator pitch 
 Describe your game in 30 seconds or less
-...
-World Background
-main differences in your game world
-...
+... the game world is based in different of earth locations like planets like crytos large blue planet with saturn like rings .
+ The world is rough and dangerous have ravengers and shady figure behind every corner . When exploreing the world of crytos you 
+have acess to space glider which are the main form of transport . The main streets and turain are based on slumps and big citys 
+in the centre of the city were the well of live.
+
+...Based on multiple
 Pillars
 3-4 fundementals of this game
 ...
