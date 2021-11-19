@@ -1,14 +1,17 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+insert team member names here git
+Emma,josh and Anna
 
 Elevator pitch 
 Describe your game in 30 seconds or less
-...
-World Background
-main differences in your game world
-...
+... the game world is based in different of earth locations like planets like crytos large blue planet with saturn like rings .
+ The world is rough and dangerous have ravengers and shady figure behind every corner . When exploreing the world of crytos you 
+have acess to space glider which are the main form of transport . The main streets and turain are based on slumps and big citys 
+in the centre of the city were the well of live.
+
+...Based on multiple
 Pillars
 3-4 fundementals of this game
 ...
@@ -17,6 +20,7 @@ describe what its like to play the essence of the game loop
 ...
 Features points
 key selling points of your game
-...
+... exciting world, full with different creaturs and aliens from different planets. use of exciting new technology like space gliders 
+it gives you an exciting new adventure as you get to discover both side of this new planet the nobles and the slums on the poorer side .
 Market analysis
 similar games , typical customer, expected sales
